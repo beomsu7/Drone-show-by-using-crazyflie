@@ -39,3 +39,29 @@ umm... gif quality is bad
       At least, we need to know how to move objects in 3d space
   
 </details>
+
+# 2. blender script
+<details><summary>[click to see]</summary>
+  
+  
+  (1) Download a [blender](https://www.blender.org/)   
+     
+     
+  (2) Learn basic control of blender with youtube tutorial, there are lots of blender tutorial for beginners   
+      At least, we need to know how to move objects in 3d space
+  
+</details>
+
+# 3. python file
+<details><summary>[click to see]</summary>
+  (1) explanation of the file   
+   
+   ~~~
+   tasdf
+   ~~~
+   
+   (2) edit the python file   
+   
+   (3) rune the python file   
+  
+</details>
