@@ -1,7 +1,15 @@
 # Drone-show-by-using-crazyflie
 This is tips for making drone show with crazeflie2.1 of [bitcraze](https://www.bitcraze.io/)
 
-
+![10drones](https://user-images.githubusercontent.com/72853382/131221009-4494291d-d2ac-4419-80f0-05a0770282fa.gif)
+![시퀀스 01_2](https://user-images.githubusercontent.com/72853382/131221187-f9d89928-0388-43f2-b68e-ff6810ca7fff.gif)   
+5 drones fly with drawing '30',    
+   
+![11drones](https://user-images.githubusercontent.com/72853382/131221011-c22d4222-7309-43c9-bffe-75233a641ac3.gif)   
+11 drones fly with led light
+   
+umm... gif quality is bad 
+   
 # 0. short story
 <details><summary>[click to see]</summary>
   
@@ -23,8 +31,11 @@ This is tips for making drone show with crazeflie2.1 of [bitcraze](https://www.b
 # 1. blender
 <details><summary>[click to see]</summary>
   
-  ~~~
-  (1) Download a ['blender'](https://www.blender.org/)
-  (2) Learn basic control of blender
-  ~~~
+  
+  (1) Download a [blender](https://www.blender.org/)   
+     
+     
+  (2) Learn basic control of blender with youtube tutorial, there are lots of blender tutorial for beginners   
+      At least, we need to know how to move objects in 3d space
+  
 </details>
